@@ -1,0 +1,116 @@
+mkdir clase4
+mkdir facturas pedidos
+sudo apt install tree
+exit
+tree
+sudo apt install tree
+tree
+cd clase4
+tree
+mkdir -p insaurralde2/{mama/hijo{1..3},papa/{hijo{1
+..3},ahijado}}
+tree
+mkdir -p dir1/dir2/dir3/dir4
+grep -i vagrant /etc/passwd
+groupadd alumnos
+groupadd alumnos suno
+grep -i alumnos/ etc/group
+sudo sudo useradd -m -s/binbash
+sudo useradd -m -s /bin/bash -c "usuario pepe" -G A
+sudo useradd -m -s /bin/bash -c "usuario pepe" -G Alumnos pepe
+cat /etc/grow
+cat /etc/group
+sudo groupadd Alumnos
+sudo useradd -m -s /bin/bash -c "usuario pepe" -G Alumnos pepe
+sudo passwd usuario pepe
+sudo passwd pepe
+su - pepe
+pwd
+cd: /home/pepe
+ls -l
+exit
+su - pepe
+textopepe.txt
+pwd
+cd clase5
+1s -1
+clase5$ touch practical.txt
+1s -1
+1s -l
+cd clase5
+ls -l
+mkdir clase5
+ls -l
+cd clase5
+touch practica1.txt
+touch practica2.txt
+ls -l
+pwd
+cd ..
+pwd
+mkdir clase6
+ls -l
+pwd
+mkdirclase6
+mkdir clase6
+cd clase6
+ls -1
+pwd
+vim script2.sh
+whoami
+pw
+wd
+pwd
+mkdir
+mkdir repogit
+ls -l
+rm -r repogit
+ls -l
+rm -rf repogit
+ls -l
+mkdir
+mkdir repogit
+ls -l
+cd repogit
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+git clone git@github.com:GermanFalcon1/TP1_Ayso.git
+cd repogit
+ls -l
+cd TP1_Ayso
+cat /etc/os-release
+grep -i Home_url /etc/os-release >
+datos_url.txt
+grep -i Home_url /etc/os-release >
+grep -i Home_url /etc/os-release > datos_url.txt
+cat datos_url.txt 
+echo“Usuario=$(whoami)”>datos_usuario.txt
+echo “Usuario=$(whoami)”>datos_usuario.txt
+cat datos_usuario.txt 
+git add .
+git config --global user.email "TU-email"
+git config --global user.email "german.falcon.guillen1@gmail.com"
+git config --global user.name "GermanFalcon1"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git push
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >>datos_usuarios.txt
+cat <<EOF >> README.md
+alumno:<german>
+division:<211>
+turno:<tarde>
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+ls -l
+vim script.dir.sh
+ls -l
+chmod 755 script.dir.sh
+ls -l
+./script.dir.sh
+tree
+history -a
